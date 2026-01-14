@@ -1,7 +1,10 @@
 data/
+results/
 *.tgz
 *.mat
 *.jpg
 *.png
+*.pt
+*.pth
 __pycache__/
 .ipynb_checkpoints/
